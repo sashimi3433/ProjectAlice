@@ -1,156 +1,184 @@
 {
-  "nluTraining": {
-	"title": {
-	  "en": "NLU training",
-	  "fr": "NLU training",
-	  "de": "NLU Training"
+	"nluTraining": {
+		"title": {
+			"en": "NLU training",
+			"fr": "NLU training",
+			"de": "NLU Training",
+			"ja": "NLUトレーニング 実行中"
+		},
+		"body": {
+			"en": "The NLU is training{}",
+			"fr": "Entrainement du NLU{}",
+			"de": "NLU trainiert{}",
+			"ja": "NULトレーニングを実行しています"
+		}
 	},
-	"body": {
-	  "en": "The NLU is training{}",
-	  "fr": "Entrainement du NLU{}",
-	  "de": "NLU trainiert{}"
-	}
-  },
-  "nluTrainingFailed": {
-	"title": {
-	  "en": "NLU training",
-	  "fr": "NLU training",
-	  "de": "NLU Training"
+	"nluTrainingFailed": {
+		"title": {
+			"en": "NLU training",
+			"fr": "NLU training",
+			"de": "NLU Training",
+			"ja": "NLUトレーニング 失敗"
+		},
+		"body": {
+			"en": "NLU training failed",
+			"fr": "Entrainement du NLU échoué",
+			"de": "NLU Training fehlgeschlagen",
+			"ja": "NLUトレーニングが失敗しました"
+		}
 	},
-	"body": {
-	  "en": "NLU training failed",
-	  "fr": "Entrainement du NLU échoué",
-	  "de": "NLU Training fehlgeschlagen"
-	}
-  },
-  "nluTrainingDone": {
-	"title": {
-	  "en": "NLU training",
-	  "fr": "NLU training",
-	  "de": "NLU Training"
+	"nluTrainingDone": {
+		"title": {
+			"en": "NLU training",
+			"fr": "NLU training",
+			"de": "NLU Training",
+			"ja": "NLUトレーニング 完了"
+		},
+		"body": {
+			"en": "NLU training done!",
+			"fr": "Entrainement du NLU terminé!",
+			"de": "NLU Training abgeschlossen!",
+			"ja": "NULトレーニングが完了しました"
+		}
 	},
-	"body": {
-	  "en": "NLU training done!",
-	  "fr": "Entrainement du NLU terminé!",
-	  "de": "NLU Training abgeschlossen!"
-	}
-  },
-  "skillUpdateAvailable": {
-	"title": {
-	  "en": "Skill update available",
-	  "fr": "Mise à jour skill",
-	  "de": "Skill Update verfügbar"
+	"skillUpdateAvailable": {
+		"title": {
+			"en": "Skill update available",
+			"fr": "Mise à jour skill",
+			"de": "Skill Update verfügbar",
+			"ja": "スキル 更新"
+		},
+		"body": {
+			"en": "The skill \"{}\" can be updated to version {}",
+			"fr": "Le skill \"{}\" peut être mis à jours vers la version {}",
+			"de": "Der Skill \"{}\" ist in Version {} verfügbar!",
+			"ja": " \"{}\" の更新が完了しました"
+		}
 	},
-	"body": {
-	  "en": "The skill \"{}\" can be updated to version {}",
-	  "fr": "Le skill \"{}\" peut être mis à jours vers la version {}",
-	  "de": "Der Skill \"{}\" ist in Version {} verfügbar!"
-	}
-  },
-  "skillUpdated": {
-	"title": {
-	  "en": "Skill update",
-	  "fr": "Mise à jour skill",
-	  "de": "Skill Update"
+	"skillUpdated": {
+		"title": {
+			"en": "Skill update",
+			"fr": "Mise à jour skill",
+			"de": "Skill Update",
+			"ja": "スキル 更新完了"
+		},
+		"body": {
+			"en": "The skill \"{}\" has been updated to version {}",
+			"fr": "Le skill \"{}\" a été mis à jours vers la version {}",
+			"de": "Der Skill \"{}\" wurde auf Version {} aktualisiert.",
+			"ja": " \"{}\" の更新が完了しました"
+		}
 	},
-	"body": {
-	  "en": "The skill \"{}\" has been updated to version {}",
-	  "fr": "Le skill \"{}\" a été mis à jours vers la version {}",
-	  "de": "Der Skill \"{}\" wurde auf Version {} aktualisiert."
-	}
-  },
-  "skillInstalled": {
-	"title": {
-	  "en": "New skill",
-	  "fr": "Nouveau skill",
-	  "de": "Neue Skill"
+	"skillInstalled": {
+		"title": {
+			"en": "New skill",
+			"fr": "Nouveau skill",
+			"de": "Neue Skill",
+			"ja": "スキル インストール完了"
+		},
+		"body": {
+			"en": "The skill \"{}\" was just installed",
+			"fr": "Le skill \"{}\" vient d'être installé",
+			"de": "Der Skill \"{}\" wurde gerade installiert.",
+			"ja": " \"{}\" のインストールが完了しました。"
+		}
 	},
-	"body": {
-	  "en": "The skill \"{}\" was just installed",
-	  "fr": "Le skill \"{}\" vient d'être installé",
-	  "de": "Der Skill \"{}\" wurde gerade installiert."
-	}
-  },
-  "aliceUpdated": {
-	"title": {
-	  "en": "Project Alice update",
-	  "fr": "Mise à jours Project Alice",
-	  "de": "Project Alice Update"
+	"aliceUpdated": {
+		"title": {
+			"en": "Project Alice update",
+			"fr": "Mise à jours Project Alice",
+			"de": "Project Alice Update",
+			"ja": "Aliceシステム アップデート完了"
+		},
+		"body": {
+			"en": "Project Alice was just updated",
+			"fr": "Project Alice a été mis à jours!",
+			"de": "Project Alice wurde gerade aktualisiert!",
+			"ja": "Aliceシステムのアップデートが完了しました"
+		}
 	},
-	"body": {
-	  "en": "Project Alice was just updated",
-	  "fr": "Project Alice a été mis à jours!",
-	  "de": "Project Alice wurde gerade aktualisiert!"
-	}
-  },
-  "coreConfigUpdateWarning": {
-	"title": {
-	  "en": "Core configuration update",
-	  "fr": "Mise à jours configuration système"
+	"coreConfigUpdateWarning": {
+		"title": {
+			"en": "Core configuration update",
+			"fr": "Mise à jours configuration système",
+			"ja": "システム設定の変更に関する警告"
+		},
+		"body": {
+			"en": "The skill \"{}\" wants to modify the setting \"{}\" to the new value \"{}\"",
+			"fr": "The skill \"{}\" veux modifier le paramètre \"{}\" à la valeure \"{}\"",
+			"ja": " \"{}\" は \"{}\" の値を \"{}\" に変更しようとしています"
+		}
 	},
-	"body": {
-	  "en": "The skill \"{}\" wants to modify the setting \"{}\" to the new value \"{}\"",
-	  "fr": "The skill \"{}\" veux modifier le paramètre \"{}\" à la valeure \"{}\""
-	}
-  },
-  "startedDownload": {
-	"title": {
-	  "en": "Download",
-	  "fr": "Téléchargement"
+	"startedDownload": {
+		"title": {
+			"en": "Download",
+			"fr": "Téléchargement",
+			"ja": "ダウンロード開始"
+		},
+		"body": {
+			"en": "Downloading \"{}\"",
+			"fr": "Téléchargement de \"{}\"",
+			"ja": "ダンロードを開始しました。 \"{}\""
+		}
 	},
-	"body": {
-	  "en": "Downloading \"{}\"",
-	  "fr": "Téléchargement de \"{}\""
-	}
-  },
-  "doneDownload": {
-	"title": {
-	  "en": "Download",
-	  "fr": "Téléchargement"
+	"doneDownload": {
+		"title": {
+			"en": "Download",
+			"fr": "Téléchargement",
+			"ja": "ダウンロード完了"
+		},
+		"body": {
+			"en": "Finished downloading \"{}\"",
+			"fr": "Téléchargement de \"{}\" terminé",
+			"ja": "ダウンロードが完了しました \"{}\""
+		}
 	},
-	"body": {
-	  "en": "Finished downloading \"{}\"",
-	  "fr": "Téléchargement de \"{}\" terminé"
-	}
-  },
-  "failedDownload": {
-	"title": {
-	  "en": "Download",
-	  "fr": "Téléchargement"
+	"failedDownload": {
+		"title": {
+			"en": "Download",
+			"fr": "Téléchargement",
+			"ja": "ダウンロード 失敗"
+		},
+		"body": {
+			"en": "Failed downloading \"{}\"",
+			"fr": "Téléchargement de \"{}\" échoué",
+			"ja": "ダウンロードに失敗しました \"{}\""
+		}
 	},
-	"body": {
-	  "en": "Failed downloading \"{}\"",
-	  "fr": "Téléchargement de \"{}\" échoué"
-	}
-  },
-  "installNodeRed": {
-	"title": {
-	  "en": "Node-Red",
-	  "fr": "Node-Red"
+	"installNodeRed": {
+		"title": {
+			"en": "Node-Red",
+			"fr": "Node-Red",
+			"ja": "インストール中"
+		},
+		"body": {
+			"en": "Installing...",
+			"fr": "Installation...",
+			"ja": "インストールしています..."
+		}
 	},
-	"body": {
-	  "en": "Installing...",
-	  "fr": "Installation..."
-	}
-  },
-  "failedInstallNodeRed": {
-	"title": {
-	  "en": "Node-Red",
-	  "fr": "Node-Red"
+	"failedInstallNodeRed": {
+		"title": {
+			"en": "Node-Red",
+			"fr": "Node-Red",
+			"ja": "インストール失敗"
+		},
+		"body": {
+			"en": "Install failed",
+			"fr": "L'installation a échoué.",
+			"ja": "インストールに失敗しました"
+		}
 	},
-	"body": {
-	  "en": "Install failed",
-	  "fr": "L'installation a échoué."
+	"installedNodeRed": {
+		"title": {
+			"en": "Node-Red",
+			"fr": "Node-Red",
+			"ja": "インストール完了"
+		},
+		"body": {
+			"en": "Install successful",
+			"fr": "Installation terminée",
+			"ja": "インストールが完了しました"
+		}
 	}
-  },
-  "installedNodeRed": {
-	"title": {
-	  "en": "Node-Red",
-	  "fr": "Node-Red"
-	},
-	"body": {
-	  "en": "Install successful",
-	  "fr": "Installation terminée"
-	}
-  }
 }
